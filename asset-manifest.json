@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/earthly/static/css/main.067d5350.css",
+    "main.js": "/earthly/static/js/main.7c84954f.js",
+    "static/media/1.png": "/earthly/static/media/1.400682cf6fbb3d9a6cda.png",
+    "static/media/3.png": "/earthly/static/media/3.70112ccd7ff181511e91.png",
+    "static/media/2.png": "/earthly/static/media/2.198c6cdfad0e89860e21.png",
+    "static/media/6.png": "/earthly/static/media/6.0049ce07c669aa1cfb16.png",
+    "static/media/5.png": "/earthly/static/media/5.bf80576e09abe06bfac4.png",
+    "static/media/4.png": "/earthly/static/media/4.0774f44c7f943b26ea81.png",
+    "static/media/hero-img.png": "/earthly/static/media/hero-img.f65d2671c5565cab00ed.png",
+    "static/media/about.png": "/earthly/static/media/about.e42e1639242176a2cc58.png",
+    "index.html": "/earthly/index.html",
+    "main.067d5350.css.map": "/earthly/static/css/main.067d5350.css.map",
+    "main.7c84954f.js.map": "/earthly/static/js/main.7c84954f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067d5350.css",
+    "static/js/main.7c84954f.js"
+  ]
+}
